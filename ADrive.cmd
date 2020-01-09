@@ -38,6 +38,5 @@ if exist "C:\Users\%USERNAME%\Desktop\ADrive\" (
     echo C:\Users\%USERNAME%\Desktop\ADrive UNAVAILABLE
   )
 
-
 timeout 5 > nul
 exit
